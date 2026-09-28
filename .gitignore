@@ -23,5 +23,6 @@ fabrication/
 jlcpcb/
 *.zip
 
+fab/
 .DS_Store
 *~
