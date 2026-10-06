@@ -8953,7 +8953,7 @@
 		(uuid "999a7596-1356-4eea-be47-8f4629d9021b")
 	)
 	(label "SDA"
-		(at 231.14 72.39 180)
+		(at 231.14 69.85 180)
 		(effects
 			(font
 				(face "JetBrains Mono Medium")
@@ -9261,7 +9261,7 @@
 		(uuid "e4c47e42-49e5-4f44-ba1a-ded7cd63a7bb")
 	)
 	(label "Dbg1"
-		(at 231.14 69.85 180)
+		(at 231.14 72.39 180)
 		(effects
 			(font
 				(face "JetBrains Mono Medium")

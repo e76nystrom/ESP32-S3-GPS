@@ -544,6 +544,7 @@
       "netlist": "",
       "plot": "fab/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": "kicad-embed://Schematic.kicad_wks"
@@ -666,7 +667,7 @@
         "uuid": "46dc5225-2059-4790-8dde-61338bdc3ed4"
       }
     ],
-    "used_designators": "H1-5,D1-3,C1-11,#PWR1-53,#PWR113-116,J1-12,J14,R1-6,JP1-9,U1-7",
+    "used_designators": "JP1-9,H1-5,#PWR1-53,#PWR113-116,D1-3,C1-11,R1-6,J1-12,J14,U1-7",
     "variants": []
   },
   "sheets": [
